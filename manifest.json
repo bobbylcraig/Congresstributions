@@ -1,0 +1,27 @@
+{
+  "name": "Congresstributions",
+  "version": "0.1",
+  "manifest_version": 2,
+  
+  "author": "Bobby Craig",
+  "offline_enabled": true,
+  
+  "description": "A Chrome Extension that simply adds each Congressperson's largest public donor after their name.",
+  "icons": {
+    "32" : "icon32.png",
+    "64" : "icon64.png",
+    "128" : "icon128.png"
+  },
+  /*
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  } */
+    "content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["content.js"],
+            "run_at": "document_end"
+        }
+    ]
+}
