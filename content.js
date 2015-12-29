@@ -11,49 +11,49 @@ for (var i = 0; i < elements.length; i++) {
             
             var senatorName = [
                 // A
-                "Ralph Abraham", "Alma Adams", "Robert Aderholt", "Pete Aguilar", "Andrew Alexander", "Rich Allen", "Justin Amash", "Aumua Amata", "Mark Amodei",
+                "Ralph Abraham", "Alma Adams", "Robert Aderholt", "Pete Aguilar", "Lamar Alexander", "Rick W. Allen", "Justin Amash", "Aumua Amata", "Mark Amodei", "Brad Ashford", "Kelly Ayotte",
                 // B
                 "Brian Babin", "Tammy Baldwin", "Lou Barletta", "Andy Barr", "John Barrasso", "Joe Barton", "Karen Bass",
-                    "Joyce Beatty", "Xavier Becerra", "Dan Benishek", "Michael Bennet", "Ami Bera", "Donald Beyer", "Gus Bilirakis",
+                    "Joyce Beatty", "Xavier Becerra", "Dan Benishek", "Michael Bennet", "Ami Bera", "Don Beyer", "Gus Bilirakis",
                     "Sanford Bishop", "Rob Bishop", "Mike Bishop", "Diane Black", "Marsha Blackburn",
                     "Rod Blum", "Earl Blumenauer", "Richard Blumenthal", "Roy Blunt", "Suzanne Bonamici", "Cory Booker", "John Boozman",
-                    "Madeleine Bordallo", "Mike Bost", "Charles Boustany", "Barbara Boxer", "Brendan Boyle",
+                    "Madeleine Bordallo", "Mike Bost", "Charles Boustany", "Barbara Boxer", "Brendan F. Boyle",
                     "Bob Brady", "Kevin Brady", "Dave Brat", "Jim Bridenstine", "Mo Brooks",
                     "Susan Brooks", "Corrine Brown", "Sherrod Brown", "Julia Brownley", "Vern Buchanan", "Ken Buck",
-                    "Larry Bucshon", "Michael Burgess", "Richard Burr", "Cheri Bustos", "George Butterfield", "Bradley Byrne",
+                    "Larry Bucshon", "Michael Burgess", "Richard Burr", "Cheri Bustos", "G. K. Butterfield", "George Butterfield", "Bradley Byrne",
                 // C
-                "Ken Calvert", "Maria Cantwell", "Shelley Capito", "Lois Capps", "Mike Capuano", "Ben Cardin", "John Carney", "Tom Carper", "André Carson", 
+                "Ken Calvert", "Maria Cantwell", "Shelley Moore Capito", "Lois Capps", "Mike Capuano", "Ben Cardin", "John Carney", "Tom Carper", "André Carson", 
                     "John Carter", "Earl Carter", "Buddy Carter", "Matt Cartwright", "Bob Casey", "Bill Cassidy", "Kathy Castor", 
-                    "Joaquin Castro", "Steve Chabot", "Jason Chaffetz", "Judy Chu", "David Cicilline", "Katherine Clark", "Yvette Clark", 
+                    "Joaquín Castro", "Steve Chabot", "Jason Chaffetz", "Judy Chu", "David Cicilline", "Katherine Clark", "Yvette Clark", 
                     "Curt Clawson", "William Clay", "Emanuel Cleaver", "Jim Clyburn", "Dan Coats", 
-                    "Thad Cochran", "Mike Coffman", "Steven Cohen", "Tom Cole", "Doug Collins", "Chris Collins", 
+                    "Thad Cochran", "Mike Coffman", "Steve Cohen", "Tom Cole", "Doug Collins", "Chris Collins", 
                     "Susan Collins", "Barbara Comstock", "Mike Conaway", "Gerry Connolly", "John Conyers", "Paul Cook", "Chris Coons",
                     "Jim Cooper", "Bob Corker", "John Cornyn", "Jim Costa", "Ryan Costello", "Tom Cotton", "Joe Courtney",
-                    "Kevin Cramer", "Mike Crapo", "Rick Crawford", "Ander Crenshaw", "Joe Crowley", "Ted Cruz", "Henry Cuellar", "John Culberson", "Elijah Cummings", 
+                    "Kevin Cramer", "Mike Crapo", "Rick Crawford", "Ander Crenshaw", "Joseph Crowley", "Ted Cruz", "Henry Cuellar", "John Culberson", "Elijah Cummings", 
                     "Carlos Curbelo", "Tony Cárdenas",
                 // D
-                "Steve Daines", "Rodney Davis", "Susan Davis", "Danny Davis", "Peter DeFazio", "Diana DeGette", "Rosa DeLauro", 
-                    "Ron DeSantis", "Mark DeSaulnier", "Susan DelBene", "John Delaney", "Jeff Denham", "Charlie Dent", 
-                    "Scott DesJarlais", "Theodore Deutch", "Mario Diaz-Balart", "Debbie Dingell", "Lloyd Doggett", "Robert Dold", 
-                    "Joe Donnelly", "Daniel Donovan", "Mike Doyle", "Tammy Duckworth", "Sean Duffy", "Jeff Duncan", "Jimmy Duncan", 
+                "Steve Daines", "Rodney Davis", "Susan Davis", "Danny K. Davis", "Peter DeFazio", "Diana DeGette", "Rosa DeLauro", 
+                    "Ron DeSantis", "Mark DeSaulnier", "Suzan DelBene", "John Delaney", "Jeff Denham", "Charlie Dent", 
+                    "Scott DesJarlais", "Ted Deutch", "Mario Díaz-Balart", "Debbie Dingell", "Lloyd Doggett", "Robert Dold", 
+                    "Joe Donnelly", "Daniel Donovan", "Michael Doyle", "Tammy Duckworth", "Sean Duffy", "Jeff Duncan", "Jimmy Duncan", 
                     "Dick Durbin",
                 // E
                 "Donna Edwards", "Keith Ellison", "Renee Ellmers", "Tom Emmer", "Eliot Engel", "Mike Enzi", "Joni Ernst", "Anna Eshoo", "Elizabeth Esty",
                 // F
                 "Blake Farenthold", "Sam Farr", "Chaka Fattah", "Dianne Feinstein", "Stephen Fincher", "Deb Fischer", "Mike Fitzpatrick", "Jeff Flake", "Chuck Fleischmann",
-                    "John Fleming", "Bill Flores", "Randy Forbes", "Jeff Fortenberry", "Bill Foster", "Virginia Foxx", "Louis Frankel", "Al Franken",
+                    "John Fleming", "Bill Flores", "Randy Forbes", "Jeff Fortenberry", "Bill Foster", "Virginia Foxx", "Lois Frankel", "Al Franken",
                     "Trent Franks", "Rodney Frelinghuysen", "Marcia Fudge",
                 // G    
-                "Tulsi Gabbard", "Ruben Gallegro", "John Garamendi", "Cory Gardner", "Ernest Garrett",
+                "Tulsi Gabbard", "Ruben Gallego", "John Garamendi", "Cory Gardner", "Scott Garrett",
                     "Bob Gibbs", "Chris Gibson", "Kirsten Gillibrand", "Louie Gohmert", "Bob Goodlatte", "Paul Gosar", "Trey Gowdy", "Gwen Graham",
                     "Lindsey Graham", "Kay Granger", "Chuck Grassley", "Tom Graves", "Garret Graves", "Sam Graves", "Alan Grayson",
                     "Gene Green", "Al Green", "Morgan Griffith", "Raúl Grijalva", "Glenn Grothman", "Frank Guinta", "Brett Guthrie", "Luis Gutiérrez",
                 // H
-                "Janice Hanh", "Richard Hanna", "Cresent Hardy", "Gregg Harper", "Andy Harris", "Vicki Hartzler", 
-                    "Alcee Hastings", "Orrin Hatch", "Joseph Heck", "Denny Heck", "Martin Heinrich", "Heidi Heitkamp", "Dean Heller", 
+                "Janice Hahn", "Richard Hanna", "Cresent Hardy", "Gregg Harper", "Andy Harris", "Vicky Hartzler", 
+                    "Alcee Hastings", "Orrin Hatch", "Joe Heck", "Denny Heck", "Martin Heinrich", "Heidi Heitkamp", "Dean Heller", 
                     "Jeb Hensarling", "Jaime Herrera Beutler", "Jody Hice", "Brian Higgins", "French Hill", "Jim Himes", "Rubén Hinojosa", "Mazie Hirono", 
                     "John Hoeven", "George Holding", "Mike Honda", "Steny Hoyer", "Richard Hudson", "Tim Huelskamp", "Jared Huffman",
-                    "Bill Huizenga", "Randy Hultgren", "Duncan Hunter", "Will Hurd", "Robert Hurt",
+                    "Bill Huizenga", "Randy Hultgren", "Duncan D. Hunter", "Will Hurd", "Robert Hurt",
                 // I
                 "Jim Inhofe", "Johnny Isakson", "Steve Israel", "Darrell Issa",
                 // J
@@ -61,25 +61,25 @@ for (var i = 0; i < elements.length; i++) {
                     "Eddie Bernice Johnson", "Hank Johnson", "David Jolly", "Walter Jones", "Jim Jordan", "David Joyce", 
                 // K    
                 "Tim Kaine", "Marcy Kaptur", "John Katko", "Bill Keating", "Mike Kelly", "Robin Kelly", 
-                    "Trent Kelly", "Joe Kennedy", "Daniel Kildee", "Derek Killmer", "Ron Kind", 
-                    "Angus King", "Steve King", "Pete King", "Adam Kinzinger", "Mark Kirk", "Ann Kirkpatrick", "John Kline",
-                    "Amy Klobuchar", "Stephen Knight", "Ann Kuster",
+                    "Trent Kelly", "Joe Kennedy", "Dan Kildee", "Derek Kilmer", "Ron Kind", 
+                    "Angus King", "Steve King", "Peter T. King", "Pete King", "Adam Kinzinger", "Mark Kirk", "Ann Kirkpatrick", "John Kline",
+                    "Amy Klobuchar", "Steve Knight", "Ann McLane Kuster",
                 // L
                 "Darin LaHood", "Doug LaMalfa", "Raúl Labrador", "Doug Lamborn", "Leonard Lance", "Jim Langevin", 
-                    "James Lankford", "Rick Larsen", "John Larson", "Bob Latta", "Brenda Lawrence", "Patrick Leahy", "Mike Lee", "Barbara Lee", 
-                    "Sandy Levin", "John Lewis", "Ted Lieu", "Dan Lipinski", "Frank LoBiondo", 
+                    "James Lankford", "Rick Larsen", "John B. Larson", "Bob Latta", "Brenda Lawrence", "Patrick Leahy", "Mike Lee", "Barbara Lee", 
+                    "Sandy Levin", "Sander Levin", "John Lewis", "Ted Lieu", "Dan Lipinski", "Frank LoBiondo", 
                     "Dave Loebsack", "Zoe Lofgren", "Billy Long", "Barry Loudermilk", "Mia Love", "Alan Lowenthal", "Nita Lowey", 
-                    "Frank Lucas", "Blaine Luetkemeyer", "Michelle Lujan Grisham", "Ben Ray Luján", "Cynthia Lummis", "Stephen Lynch",
+                    "Frank Lucas", "Blaine Luetkemeyer", "Michelle Lujan Grisham", "Ben Luján", "Cynthia Lummis", "Stephen F. Lynch",
                 // M
-                "Thomas MacArthur", "Sean Maloney", "Carolyn Maloney", "Joe Manchin", "Kenny Marchant", "Tom Marino", "Ed Markey", 
+                "Tom MacArthur", "Sean Patrick Maloney", "Carolyn Maloney", "Joe Manchin", "Kenny Marchant", "Tom Marino", "Ed Markey", 
                     "Thomas Massie", "Doris Matsui", "John McCain", "Kevin McCarthy", "Claire McCaskill", "Michael McCaul", "Tom McClintock",
                     "Betty McCollum", "Mitch McConnel", "Jim McDermott", "Jim McGovern", "Patrick McHenry", "David McKinley", 
-                    "Cathy McMorris Rodgers", "Jerry McNerney", "Martha McSally", "Mark Meadows", "Patrick Meehan", "Gregory Meeks", "Grace Meng", 
-                    "Bob Menéndez", "Jeff Merkley", "Luke Messer", "John Mica", "Barbara Mikulski", "Candice Miller", "Jeff Miller", 
+                    "Cathy McMorris Rodgers", "Jerry McNerney", "Martha McSally", "Mark Meadows", "Pat Meehan", "Gregory Meeks", "Grace Meng", 
+                    "Bob Menendez", "Jeff Merkley", "Luke Messer", "John Mica", "Barbara Mikulski", "Candice Miller", "Jeff Miller", 
                     "John Moolenaar", "Alex Mooney", "Gwen Moore", "Jerry Moran", "Seth Moulton", "Markwayne Mullin", 
-                    "Mick Mulvaney", "Lisa Murkowski", "Patrick Murphy", "Tim Murphy", "Chris Murphy", "Patty Murray",
+                    "Mick Mulvaney", "Lisa Murkowski", "Patrick Murphy", "Timothy F. Murphy", "Chris Murphy", "Patty Murray",
                 // N
-                "Jerry Nadler", "Grace Napoitano", "Richard Neal", "Bill Nelson", "Randy Neugebauer", "Dan Newhouse", "Kristi Noem",
+                "Jerrold Nadler", "Jerry Nadler", "Grace Napolitano", "Richard Neal", "Bill Nelson", "Randy Neugebauer", "Dan Newhouse", "Kristi Noem",
                     "Rick Nolan", "Donald Norcross", "Eleanor Holmes Norton", "Rich Nugent", "Devin Nunes", 
                 // O
                 "Beto O'Rourke", "Pete Olson", 
@@ -92,23 +92,23 @@ for (var i = 0; i < elements.length; i++) {
                 // Q
                 "Mike Quigley",
                 // R
-                "Charlie Rangel", "John Ratcliffe", "Tom Reed", "Jack Reed", "David Reichert", "Harry Reid", "Jim Renacci", 
+                "Charles Rangel", "John Ratcliffe", "Tom Reed", "Jack Reed", "Dave Reichert", "Harry Reid", "Jim Renacci", 
                     "Reid Ribble", "Tom Rice", "Kathleen Rice", "Cedric Richmond", "Scott Rigell", "Jim Risch", 
                     "Pat Roberts", "Martha Roby", "Phil Roe", "Mike Rogers", "Hal Rogers", "Dana Rohrabacher", "Todd Rokita", "Tom Rooney", 
                     "Ileana Ros-Lehtinen", "Peter Roskam", "Dennis Ross", "Keith Rothfus", "Mike Rounds", "David Rouzer", "Lucille Roybal-Allard", 
-                    "Ed Royce", "Marco Rubio", "Raul Ruiz", "Dutch Ruppersberger", "Bobby Rush", "Steve Russell", "Tim Ryan", "Paul Ryan"
+                    "Ed Royce", "Marco Rubio", "Raul Ruiz", "Dutch Ruppersberger", "Bobby Rush", "Steve Russell", "Tim Ryan", "Paul Ryan",
                 // S
                 "Kilili Sablan", "Matt Salmon", "Loretta Sanchez", "Bernie Sanders", "Mark Sanford", "John Sarbanes", "Ben Sasse", 
                     "Steve Scalise", "Jan Schakowsky", "Brian Schatz", "Adam Schiff", "Kurt Schrader", "Chuck Schumer", 
                     "David Schweikert", "Austin Scott", "Tim Scott", "David Scott", "Bobby Scott", "Jim Sensenbrenner",
                     "José Serrano", "Pete Sessions", "Jeff Sessions", "Terri Sewell", "Jeanne Shaheen", "Richard Shelby", 
                     "Brad Sherman", "John Shimkus", "Bill Shuster", "Mike Simpson", "Kyrsten Sinema", "Albio Sires",
-                    "Louise Slaughter", "Jason Smith", "Chris Smith", "Lamar Smith", "Adam Smith", "Adrian Smith", 
+                    "Louise Slaughter", "Jason T. Smith", "Chris Smith", "Lamar S. Smith", "Adam Smith", "Adrian Smith", 
                     "Jackie Speier", "Debbie Stabenow", "Elise Stefanik", "Chris Stewart", "Steve Stivers", "Marlin Stutzman", 
-                    "Daniel Sullivan", "Eric Swalwell", "Linda Sánchez", 
+                    "Dan Sullivan", "Eric Swalwell", "Linda Sánchez", 
                 // T
                 "Mark Takai", "Mark Takano", "Jon Tester", "Mike Thompson", "Bennie Thompson", "Glenn Thompson", "Mac Thornberry", 
-                    "John Thune", "Pat Tiberi", "Thom Tillis", "Scott Tipton", "Dina Titus", "Paul Tonko", "Patrick Toomey", 
+                    "John Thune", "Pat Tiberi", "Thom Tillis", "Scott Tipton", "Dina Titus", "Paul Tonko", "Pat Toomey", 
                     "Norma Torres", "David Trott", "Niki Tsongas", "Mike Turner",
                 // U
                 "Tom Udall", "Fred Upton", 
@@ -116,11 +116,11 @@ for (var i = 0; i < elements.length; i++) {
                 "David Valadao", "Chris Van Hollen", "Juan Vargas", "Marc Veasey", "Filemon Vela", "Nydia Velázquez", "Pete Visclosky", 
                     "David Vitter",
                 // W
-                "Ann Wagner", "Tim Wahlberg", "Greg Walden", "Mark Walker", "Jackie Walorski",
+                "Ann Wagner", "Tim Walberg", "Greg Walden", "Mark Walker", "Jackie Walorski",
                     "Mimi Walters", "Tim Walz", "Mark Warner", "Elizabeth Warren", "Debbie Wasserman Schultz", "Maxine Waters", 
                     "Bonnie Watson Coleman", "Randy Weber", "Daniel Webster", "Peter Welch", "Brad Wenstrup", "Bruce Westerman", 
                     "Lynn Westmoreland", "Sheldon Whitehouse", "Ed Whitfield", "Roger Wicker", "Roger Williams", "Frederica Wilson",
-                    "Joe Wilson", "Robert Wittman", "Steve Womack", "Rob Woodall", "Ron Wyden",
+                    "Joe Wilson", "Rob Wittman", "Steve Womack", "Rob Woodall", "Ron Wyden",
                 // Y
                 "John Yarmuth", "Kevin Yoder", "Ted Yoho", "Todd Young", "David Young", "Don Young",
                 // Z
@@ -130,7 +130,7 @@ for (var i = 0; i < elements.length; i++) {
             
             var senatorOrg = [
                 // A
-                "American Sugar Cane League", "Emily's List", "Parker Towing", "J Street", "International Paper", "Rw Allen", "Club for Growth", "None Listed", "Sierra Nevada Corporation",
+                "American Sugar Cane League", "Emily's List", "Parker Towing", "J Street", "International Paper", "Rw Allen", "Club for Growth", "None Listed", "Sierra Nevada Corporation", "Blue Cross Blue Shield Of Nebraska", "NORPAC",
                 // B
                 "Citigroup", "Emily's List", "Savills Studley Incorporated", "Alliance Coal", "Richie's Specialty Pharmacy", "Oil City Iron Works", "Sony Pictures Entertainment",
                     "L Brands", "Oaktree Capital Management", "Amwayalticor Incorporated", "Brownstein Hyatt Farber Schreck", "J Street", "Akin Gump", "Marathon Petroleum",
@@ -139,7 +139,7 @@ for (var i = 0; i < elements.length; i++) {
                     "Northrop Grumman", "Maclean Fogg Company", "Charter Brokerage LLC", "Emily's List", "International Union of Bricklayers and Allied Craftworkers",
                     "Laborers' International Union of North America", "Anadarko Petroleum", "Senate Conservatives Fund", "American Optometric Association", "Dynetics Incorporated",
                     "Barnes And Thornburg", "Florida Rock Industries", "Ohio State University", "Emily's List", "Florida Cancer Specialists", "Hensel Phelps Construction",
-                    "Murray Energy Corporation", "American Academy of Otolaryngology - Head and Neck Surgery", "New Breed", "J Street", "Merck", "Pilot Catastrophe Services",
+                    "Murray Energy Corporation", "American Academy of Otolaryngology - Head and Neck Surgery", "New Breed", "J Street", "Merck", "Merck", "Pilot Catastrophe Services",
                 // C
                 "General Atomics", "Microsoft", "Sullivan and Cromwell", "J Street", "Thornton and Naumes", "Ernst & Young", "Young Conaway Et Al", "J.P. Morgan Chase", "Rolls Royce North America",
                     "Bollinger Shipyards", "Rite Aid Corporation", "Rite Aid Corporation", "Odonnell Law Offices", "Comcast", "Edison Chouest Offshore", "Cox Enterprises",
@@ -181,12 +181,12 @@ for (var i = 0; i < elements.length; i++) {
                 // K    
                 "League of Conservation Voters", "Forest City Enterprises", "Pyramid Companies", "United Food and Commercial Workers International Union", "UPS", "United Food and Commercial Workers International Union",
                     "None Listed", "Highfields Capital Management", "International Brotherhood of Electrical Workers", "League of Conservation Voters", "Northwestern Mutual",
-                    "Democracy Engine", "Citizens United", "International Union of Operating Engineers", "Exelon", "Kirkland & Ellis", "Emily's List", "Apollo Education Group",
+                    "Democracy Engine", "Citizens United", "International Union of Operating Engineers", "International Union of Operating Engineers", "Exelon", "Kirkland & Ellis", "Emily's List", "Apollo Education Group",
                     "Dorsey and Whitney", "Hunter Dodge", "J Street", 
                 // L
                 "None Listed", "Ernst & Young", "Melaleuca Incorporated", "Duty Free Americas", "International Union of Operating Engineers", "General Dynamics",
                     "Devon Energy", "BNSF Railway", "Massmutual", "Marathon Petroleum", "Emily's List", "Girardi And Keese", "Apex Alarm", "San Francisco Regional Center",
-                    "Prudential Financial", "United Food and Commercial Workers International Union", "Munger Tolles and Olson", "United Association", "United Airlines",
+                    "Prudential Financial", "Prudential Financial", "United Food and Commercial Workers International Union", "Munger Tolles and Olson", "United Association", "United Airlines",
                     "University of Iowa", "Google", "National Association of Broadcasters", "Club for Growth", "Koch Industries", "American Crystal Sugar", "Alzheimers Impact Movement", 
                     "Tom James Company", "Independent Insurance Agents & Brokers of America", "New York Life", "Blue Crossblue Shield Of Illinois", "Halliburton Company", "G And C Concrete Construction", 
                 // M
@@ -198,7 +198,7 @@ for (var i = 0; i < elements.length; i++) {
                     "Dow Chemical Company", "Murray Energy Corporation", "Federated Investors Incorporated", "Koch Industries", "Democracy Engine", "Devon Energy",
                     "Blue Crossblue Shield Of South Carolina", "Edison Chouest Offshore", "Coastal Construction Group", "Koppers Incorporated", "Moveon.org", "Microsoft",
                 // N
-                "Windmill Distributing Company", "Air Line Pilots Association", "Massmutual", "Morgan And Morgan", "BNY Mellon", "American Crystal Sugar", "Blackstone", 
+                "Windmill Distributing Company", "Windmill Distributing Company", "Air Line Pilots Association", "Massmutual", "Morgan And Morgan", "BNY Mellon", "American Crystal Sugar", "Blackstone", 
                     "Heartland Realty Investors", "International Brotherhood of Electrical Workers", "Savills Studley Incorporated", "Publix", "California Dairies, Inc.",
                 // O
                 "Sheet Metal Workers' International Association", "Pro Compounding Centers of America", 
@@ -215,7 +215,7 @@ for (var i = 0; i < elements.length; i++) {
                     "Schneider National", "Cl Benton And Sons", "First Nationwide Title Agency", "Marathon Petroleum", "Norfolk Southern", "Honeywell", 
                     "Burns and Mcdonnell", "UPS", "Powell Construction", "Boeing", "American Crystal Sugar", "Pelican Point Capital", "Kirkland & Ellis", "United Technologies",
                     "Rosen Partners", "Exelon", "Publix", "Federated Investors Incorporated", "Citigroup", "American Crystal Sugar", "National Air Traffic Controllers Association", 
-                    "NORPAC", "Club for Growth", "J Street", "Mantech International", "CSX", "State Of Oklahoma", "Credit Union National Association", "Northwestern Mutual"
+                    "NORPAC", "Club for Growth", "J Street", "Mantech International", "CSX", "State Of Oklahoma", "Credit Union National Association", "Northwestern Mutual",
                 // S
                 "Tan Holdings", "Nextmed", "Aitken Aitken And Cohn", "Communications Workers of America", "Zeus Incorporated", "Venable Llp", "Club for Growth",
                     "Edison Chouest Offshore", "J Street", "League of Conservation Voters", "Quinn Emanuel Et Al", "Washington State University", "Paul Weiss Et Al",
