@@ -6,3 +6,5 @@ The extension can be quickly downloaded at [this](https://chrome.google.com/webs
 I found out that OpenSecrets.org has an API, so I want to fix this from being hardcoded to completely adjustable via the API.
 
 ![Screenshot From Chrome Store](ScreenshotFromGoogleStore.png "Screenshot from Google Store") 
+
+Imma work on this next.
