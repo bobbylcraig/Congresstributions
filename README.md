@@ -3,7 +3,7 @@ Congresstributions allows anyone to see who their public servants are *really* s
 
 The extension can be quickly downloaded at [this](https://chrome.google.com/webstore/detail/congresstributions/pilhmclmlbcgdanljcmiolfcbeogejpd) link or you can type  "Congresstributions" in the Chrome store for yourself! As always, I'd love feedback!..I'm excited for the next version.
 
-I found out that OpenSecrets.org has an API, so I want to fix this from being hardcoded to completely adjustable via the API.
+I found out that OpenSecrets.org has an API, so I want to fix this from being hardcoded to completely adjustable via the API. I'll get around to this eventually...
 
 ![Screenshot From Chrome Store](ScreenshotFromGoogleStore.png "Screenshot from Google Store") 
 
